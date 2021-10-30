@@ -1,0 +1,20 @@
+body
+{  
+	background-image :url("images/bleuf.jpg")
+}
+
+
+h1
+{
+	border : 3px black solid;
+	box-shadow: 6px 6px 6px black;
+	color : blue;
+}
+
+ul
+{
+	font-family: arial,arial black;
+	text-align: center;
+}
+
+
